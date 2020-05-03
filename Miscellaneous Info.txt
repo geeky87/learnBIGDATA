@@ -1,0 +1,26 @@
+*******************************************************************************************
+File Formats
+*******************************************************************************************
+-- Text Formats -- Human Readable
+  -- CSV
+  -- TSV
+  -- JSON   -- https://www.json.org/json-en.html
+  -- XML    -- https://www.w3schools.com/xml/
+
+
+ -- Binary Formats --Non Human Readale
+    --Row Based
+        -- Sequence File  -- https://hadoop.apache.org/docs/r2.7.5/api/org/apache/hadoop/io/SequenceFile.html
+        -- Avro           -- https://avro.apache.org/docs/1.2.0/
+    --Columnar Based
+        -- RC File        -- https://hive.apache.org/javadocs/r2.2.0/api/org/apache/hadoop/hive/ql/io/RCFile.html
+        -- ORC File       -- https://orc.apache.org/
+        -- Parquet        -- https://parquet.apache.org/
+
+
+*******************************************************************************************
+Python Library Information
+*******************************************************************************************
+
+   -- CSV -- https://docs.python.org/2/library/csv.html
+   -- JSON -- https://docs.python.org/2/library/json.html
